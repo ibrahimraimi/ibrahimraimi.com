@@ -29,7 +29,7 @@ function About({ className }: { className?: string }) {
         I help founders & businesses turn ideas into products.
       </p>
       <p className="text-foreground font-medium text-base">
-        I'm a creative frontend & design engineer, dedicated to crafting
+        I&apos;m a creative frontend & design engineer, dedicated to crafting
         impactful digital experiences for global brands & individuals.
       </p>
       <p>
@@ -38,10 +38,10 @@ function About({ className }: { className?: string }) {
       </p>
 
       <p>
-        I'm drawn to new ideas. I dive in fast and explore broadly. Whether I'm
-        shaping early concepts, refining products in production, or crafting
-        bold visuals for one-off moments, I make sure everything feels cohesive
-        and on-brand.
+        I&apos;m drawn to new ideas. I dive in fast and explore broadly. Whether
+        I&apos;m shaping early concepts, refining products in production, or
+        crafting bold visuals for one-off moments, I make sure everything feels
+        cohesive and on-brand.
       </p>
     </div>
   );
