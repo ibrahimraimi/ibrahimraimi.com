@@ -90,6 +90,12 @@ function Work({ className }: { className?: string }) {
       href: "https://studio21.studio",
       year: "2024",
     },
+    {
+      title: "Digital Playground",
+      description: "A creative web application for building interactive digital letters and layouts with multimedia elements.",
+      href: "https://digitalplayground.site",
+      year: "2025"
+    }
   ];
 
   return (
